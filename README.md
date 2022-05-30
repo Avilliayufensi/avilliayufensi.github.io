@@ -1,19 +1,19 @@
-## Welcome to GitHub Pages
+## Welcome to My Pages
 
-You can use the [editor on GitHub](https://github.com/Avilliayufensi/avilliayufensi.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Hello! Welcome to my pages where I share the journey and experiences in my life.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Enjoy!
 
-### Markdown
+### ABOUT ME
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I'm a final student in University of Palangka Raya. And I'm doing my exchange student year in Hokkaido University
 
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# CONTACT
+# CV
+# THANKYOU
 
 - Bulleted
 - List
