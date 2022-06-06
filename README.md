@@ -20,9 +20,7 @@ Instagram : avilliayufensii
 
 Linkedin : https://www.linkedin.com/in/avilliayufensi/
 
-# CV
-
-
+# [CV](CV AVI UPDATE.pdf)
 
 # THANKYOU
 
