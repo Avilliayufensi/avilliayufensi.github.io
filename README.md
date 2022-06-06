@@ -21,3 +21,4 @@ Linkedin : https://www.linkedin.com/in/avilliayufensi/
 # CV
 
 # THANKYOU
+![IMG_7903-1030x651](https://user-images.githubusercontent.com/105983985/172118004-0ed7a6d4-9e0e-4cd0-baf8-62c54819d36c.jpg)
