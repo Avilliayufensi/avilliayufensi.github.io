@@ -1,5 +1,7 @@
 ## Welcome to My Pages
 
+![WhatsApp Image 2022-05-25 at 4 43 37 AM (1)](https://user-images.githubusercontent.com/105983985/172118090-428b2942-a0ee-4994-84a7-7d52ffbcd949.jpeg)
+
 Hello! here I share the journey and experiences in my life.
 
 Enjoy!
@@ -20,5 +22,7 @@ Linkedin : https://www.linkedin.com/in/avilliayufensi/
 
 # CV
 
+
+
 # THANKYOU
-![IMG_7903-1030x651](https://user-images.githubusercontent.com/105983985/172118004-0ed7a6d4-9e0e-4cd0-baf8-62c54819d36c.jpg)
+
